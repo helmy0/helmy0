@@ -16,4 +16,4 @@
 ## Contact
 
 - **Email:** omar.tarek.farrag123@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/omarfarrag01/)https://www.linkedin.com/in/omarfarrag01/)
+- **LinkedIn:** [https://www.linkedin.com/in/omarfarrag01/)https://www.linkedin.com/in/omarfarrag01/]
