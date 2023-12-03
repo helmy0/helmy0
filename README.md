@@ -1,6 +1,6 @@
 # Omar Farrag
 
-Developer
+Junior Developer
 
 ## Skills
 
@@ -16,5 +16,5 @@ Developer
 ## Contact
 
 - **Email:** omar.tarek.farrag123@gmail.com
-[LinkedIn]([(https://www.linkedin.com/in/omarfarrag01/)]
+- **LinkedIn:** https://www.linkedin.com/in/omarfarrag01/
   
