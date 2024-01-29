@@ -1,16 +1,17 @@
 # Omar Farrag
 
-Junior Developer
+Full-stack Developer
 
 ## Skills
 
 - Python
+- Django
 - Java
 - HTML
 - CSS
 - Node.js
 - Kubernetes
-- AWS (CCP)
+- AWS (SA0-C03)
 - CI/CD
 
 ## Contact
