@@ -23,7 +23,7 @@
 ## Let's Connect:
 
 - [LinkedIn](https://www.linkedin.com/in/omarfarrag01/)
-- [Send Email](omar.tarek.farrag123@gmail.com)
+- omar.tarek.farrag123@gmail.com
 
 
 
