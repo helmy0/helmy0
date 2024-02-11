@@ -7,25 +7,15 @@
 
 
 
-# Hello, I'm [Your Name] 👋
+# Omar Farrag
 
-I'm a [Your Profession/Role] dedicated to [Brief Description of Your Work]. Welcome to my GitHub profile!
-
-🔭 **Currently:** Working on [Project/Goal] to [Brief Description].
-
-🌱 **Exploring:** [Technology/Subject] to enhance [Specific Area of Interest].
-
-💼 **Experience:** [Brief overview of your professional experience and achievements].
-
-📫 **Reach me:** [Your Contact Information] | [LinkedIn Profile] | [Personal Website]
-
-⚡ **Fun Fact:** [Interesting Fact about Yourself]
+Current Computer Science student at UoL. Focused on developing full-stack applications with a focus on cloud integration and containerization.
 
 ---
 
-### 🚀 Skills & Expertise:
+Skills & Expertise:
 
-- **Languages:** [List of Programming Languages you are proficient in]
+- **Languages:** [Python, Java, and JavaScript]
 - **Frameworks & Libraries:** [List of Frameworks & Libraries you specialize in]
 - **Tools:** [List of Tools and Technologies you are experienced with]
 - **Methodologies:** [Agile, Scrum, etc.]
