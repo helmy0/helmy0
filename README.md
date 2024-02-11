@@ -11,24 +11,17 @@
 
 Current Computer Science student at UoL. Focused on developing full-stack applications with a focus on cloud integration and containerization.
 
----
 
 Skills & Expertise:
 
 - **Languages:** [Python, Java, and JavaScript]
-- **Frameworks & Libraries:** [List of Frameworks & Libraries you specialize in]
-- **Tools:** [List of Tools and Technologies you are experienced with]
-- **Methodologies:** [Agile, Scrum, etc.]
+- **Frameworks & Libraries:** [Django, Node.js, Pandas, MatLap and NumPy]
+- **Tools:** [MongoDB, PostgreSQL, AWS(S3, EC2, RDS), Docker, Kubernetes and Git]
 
----
 
-### 📈 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
----
-
-### 💬 Let's Connect:
+### Let's Connect:
 
 - [Your LinkedIn Profile]
 - [Your Portfolio Website/Blog]
