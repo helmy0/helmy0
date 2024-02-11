@@ -9,7 +9,7 @@
 
 # Omar Farrag
 
-## Current Computer Science student at UoL. Focused on developing full-stack applications with a focus on cloud integration and containerization.
+### Current Computer Science student at UoL. Focused on developing full-stack applications with a focus on cloud integration and containerization.
 
 
 ## Skills & Expertise:
