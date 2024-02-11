@@ -23,9 +23,8 @@
 ## Let's Connect:
 
 - [LinkedIn](https://www.linkedin.com/in/omarfarrag01/)
-- [Your Portfolio Website/Blog]
-- [Your Twitter Handle]
-- [Your Email Address]
+- [Send Email](omar.tarek.farrag123@gmail.com)
+
 
 
 
