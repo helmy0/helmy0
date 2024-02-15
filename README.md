@@ -14,10 +14,10 @@
 
 ## Skills & Expertise:
 
-- **Languages:** [Python, Java, and JavaScript]
-- **Frameworks & Libraries:** [Django, Node.js, Pandas, MatLap and NumPy]
-- **Tools:** [MongoDB, PostgreSQL, AWS(S3, EC2, RDS), Docker, Kubernetes and Git]
-- **Certifications:** [AWS SAA C03, AWS CCP and CKAD (2024 Q2)] 
+- **Languages:** Python, Java, and JavaScript
+- **Frameworks & Libraries:** Django, Node.js, Pandas, MatLap and NumPy
+- **Tools:** MongoDB, PostgreSQL, AWS(S3, EC2, RDS), Docker, Kubernetes and Git
+- **Certifications:** AWS SAA C03, AWS CCP and CKAD (2024 Q2)
 
 
 ## Let's Connect:
