@@ -7,7 +7,7 @@
 
 
 
-# Software Engineer; exploring DevOps & Machine learning 
+# Software Engineer; exploring DevOps, Machine learning & Web Dev
 
 
 
