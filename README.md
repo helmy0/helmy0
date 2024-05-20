@@ -7,9 +7,9 @@
 
 
 
-# Omar Farrag
+# Software Engineer; exploring DevOps & Machine learning 
 
-## Software Engineer; exploring devops, Machine learning & Web Dev
+
 
 
 
